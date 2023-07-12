@@ -1,2 +1,3 @@
 appName: payment
 params: "dev.payment.cart_host dev.payment.cart_port dev.payment.user_host dev.payment.user_port dev.payment.amqp_host dev.payment.amqp_user dev.payment.amqp_pass"
+appPort: 8080
